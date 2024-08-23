@@ -8,7 +8,7 @@
 
 ## 30.8.2024
 
-- [ ] Er fragt mich nach meinem Namen. UNd gibt den Namen zurück
+- [ ] Er fragt mich nach meinem Namen und gibt den Namen zurück
 - [ ] Random Zahlengenerator und muss die Zahl erraten.
 - [ ] Stoppuhr
 - [ ] Ein Chatbot
