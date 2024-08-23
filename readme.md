@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-1. Ich habe keine Ahnung von programmieren. Aber das vom letztn mal habe ich verstanden. Ich hoffe das miene Ziele nicht zu schwirig sind und ich das erreichen kann. Ich will eine art Chatbotversuchen und irgend wann ein Jump and Runn game programmieren. Aber das nächste ma werde ich acuh noch einen Randomzahlengenerator versuchen zu programmieren.
+Ich habe noch keine Erfahrung mit Programmieren, aber das letzte Mal habe ich es verstanden. Ich hoffe, dass meine Ziele nicht zu schwierig sind und ich sie erreichen kann. Ich möchte einen einfachen Chatbot erstellen und irgendwann ein Jump-and-Run-Spiel programmieren. Beim nächsten Mal werde ich versuchen, einen Zufallszahlengenerator zu programmieren.
 
 ## 30.8.2024
 
