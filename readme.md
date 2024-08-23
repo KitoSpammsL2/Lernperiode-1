@@ -13,7 +13,7 @@ Ich habe noch keine Erfahrung mit Programmieren, aber das letzte Mal habe ich es
 - [ ] Stoppuhr
 - [ ] Ein Chatbot
 - [ ] Taschenrechner mit
-   - [ ] Adition
+   - [ ] Addition
    - [ ] Subtraktion
    - [ ] Mutliplikationison
    - [ ] Divsion
