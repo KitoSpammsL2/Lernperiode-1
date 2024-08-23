@@ -11,12 +11,13 @@
 - [ ] Er fragt mich nach meinem Namen. UNd gibt den Namen zurück
 - [ ] Random Zahlengenerator und muss die Zahl erraten.
 - [ ] Stoppuhr
-- [ ] Taschenrechner
-     * Adition
+- [ ] Ein Chatbot
+- [ ] Taschenrechner mit
+   - [ ] Adition
      * Subtraktion
      * Division
      * Mutliplikation
-- [ ] Ein Chatbot
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
