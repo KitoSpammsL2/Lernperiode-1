@@ -14,9 +14,9 @@
 - [ ] Ein Chatbot
 - [ ] Taschenrechner mit
    - [ ] Adition
-     * Subtraktion
-     * Division
-     * Mutliplikation
+   - [ ] Subtraktion
+   - [ ] Mutliplikationison
+   - [ ] Divsion
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
