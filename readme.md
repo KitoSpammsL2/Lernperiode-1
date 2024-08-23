@@ -5,13 +5,13 @@
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was wäre ein geeignetes Projekt für diese LP5?
+2. Was wäre ein geeignetes Projekt für diese LP1?
 
 ## 23.8.2024
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-## 30.4.2024
+## 30.8.2024
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
