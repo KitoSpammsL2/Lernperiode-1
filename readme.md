@@ -12,12 +12,21 @@ Ich habe noch keine Erfahrung mit Programmieren, aber das letzte Mal habe ich es
 - [ ] Random Zahlengenerator und muss die Zahl erraten.
 - [ ] Stoppuhr
 - [ ] Ein Chatbot
-- [ ] Taschenrechner mit
-   - [ ] Addition
-   - [ ] Subtraktion
-   - [ ] Mutliplikationison
-   - [ ] Divsion
+- [x] Taschenrechner mit
+   - [x] Addition
+   - [x] Subtraktion
+   - [x] Mutliplikationison
+   - [x] Divsion
 
 
-✍️ Heute habe ich... (50-100 Wörter)
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Heute habe ich einen einfachen Taschenrechner programmiert, der Addition, Subtraktion, Multiplikation und Division ausführen kann. Danach habe ich versucht, einen komplexeren Taschenrechner zu entwickeln, an dem ich immer noch arbeite. Das Problem ist, dass meine Schleife noch nicht so funktioniert, wie ich es möchte. Ausserdem möchte ich sicherstellen, dass der Benutzer nur Zahlen eingeben kann und keine Buchstaben, da das Programm abstürzt, wenn ein Buchstabe eingegeben wird.
+
+## 6.9.2024
+- [ ] Die while Schlaufe verbessern
+- [ ] Dass das Programm nicht abstürzt, wenn ein Buchstabe eingibt.
+- [ ] Dass ich einen Rechner mache, bei dem ich einfach die Rechnung eingeben kann, ohne extra drei Fragen stellen zu müssen.
+- [ ] Vieleicht noch mit dem Random Zahlengenerator beginnen.
+
+
+
+☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzulade
