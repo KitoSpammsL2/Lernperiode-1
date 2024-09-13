@@ -36,7 +36,7 @@ Ich weiß nicht genau warum, aber der letzte Eintrag wurde nicht gespeichert. He
 ## 20.9.2024
 
 - [ ] Das der Gewinner angezeigt wird
-- [ ]Das Spiel endet noch nicht, obwohl ich drei in einer Reihe habe.
+- [ ] Das Spiel endet noch nicht, obwohl ich drei in einer Reihe habe.
   
 
 
