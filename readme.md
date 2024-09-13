@@ -28,5 +28,10 @@ Heute habe ich einen einfachen Taschenrechner programmiert, der Addition, Subtra
 - [ ] Vieleicht noch mit dem Random Zahlengenerator beginnen.
 
 
+## 13.9.2024
+
+Ich weiß nicht genau warum, aber der letzte Eintrag wurde nicht gespeichert. Heute habe ich die Arbeit vom Taschenrechner abgeschlossen und ein neues Projekt begonnen. Nach Überlegungen, was ich machen könnte, habe ich mich für Tic-Tac-Toe entschieden. Da ich nicht wusste, wo ich anfangen soll, habe ich auf YouTube nachgesehen. Ich habe mir ein Video angeschaut und versucht, das Spiel selbst zu programmieren. Ich bin noch nicht ganz fertig, aber ich habe bereits das Spielfeld erstellt und einige Funktionen geschrieben. Als nächstes muss ich noch die Logik programmieren, damit der Gewinner angezeigt wird.
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzulade
