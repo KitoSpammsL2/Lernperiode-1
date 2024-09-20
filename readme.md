@@ -38,10 +38,11 @@ Ich weiß nicht genau warum, aber der letzte Eintrag wurde nicht gespeichert. He
 - [x] Das der Gewinner angezeigt wird
 - [x] Das Spiel endet noch nicht, obwohl ich drei in einer Reihe habe.
   
-Ich habe einen Taschnrechner gemacht der einfache +, -, * und / rechnen kann Und Ich habe das Tic Tac Toe fertig programmiert
+Ich habe einen Taschenrechner programmiert, der einfache Additionen, Subtraktionen, Multiplikationen und Divisionen durchführen kann. Außerdem habe ich das Tic-Tac-Toe-Spiel komplett fertig programmiert.
 
 
 ![Screenshot 2024-09-20 105903](https://github.com/user-attachments/assets/7a8119eb-c2af-4226-8459-a69963ccf56d)
+![Screenshot 2024-09-20 113502](https://github.com/user-attachments/assets/240a6c93-abfa-40b5-98b8-b1dad930981c)
 
 
 ## Reflexion
