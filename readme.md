@@ -35,7 +35,7 @@ Ich weiß nicht genau warum, aber der letzte Eintrag wurde nicht gespeichert. He
 
 ## 20.9.2024 Fertiges Projekt
 
-- [ ] Das der Gewinner angezeigt wird
+- [x] Das der Gewinner angezeigt wird
 - [x] Das Spiel endet noch nicht, obwohl ich drei in einer Reihe habe.
   
 Ich habe einen Taschnrechner gemacht der einfache +, -, * und / rechnen kann Und Ich habe das Tic Tac Toe fertig programmiert
@@ -46,6 +46,8 @@ Ich habe einen Taschnrechner gemacht der einfache +, -, * und / rechnen kann Und
 
 ## Reflexion
 
-Ich habe mir am anfnag vorgenommen einen Taschenrechner zu programmieren über die zeit habe ich etwa 3 verschiedne tschenrechner gemacht in der ersten sitzung habe ich einen einfachen rechner gemacht der nur + rechnen kann. bis der nächsten sitzung habe ich viel dazu gelehrt und konnte einen Rechner machen der +, -, *, / kann jedoch ist der immer abgestürtzt wenn ich einen buchstaben eingegeben habe und ich musste herausfinden wie der rechner zahlen erkennen kann und das habe ich mit der hilfe von chat gpt gemacht und somit nicht abstürtzt und das habe ich dn bei dem 3 rechner geschaft. Danach wurde mir Langweilig und ich wollte nicht mehr einen Taschen rechner programmieren sondern etwas neues also wahr ich auf youtube und habe nach projekten gesucht und habe mich für dem 
+Am Anfang hatte ich mir vorgenommen, einen Taschenrechner zu programmieren. Im Laufe der Zeit habe ich drei verschiedene Taschenrechner entwickelt. In der ersten Sitzung habe ich einen einfachen Rechner erstellt, der nur Additionen durchführen konnte. Bis zur nächsten Sitzung hatte ich viel dazugelernt und konnte einen Taschenrechner programmieren, der die Grundrechenarten (+, -, *, /) beherrschte. Allerdings stürzte dieser Rechner ab, wenn ich Buchstaben eingegeben habe. Ich musste herausfinden, wie der Rechner Zahlen erkennen kann. Mit der Hilfe von ChatGPT konnte ich das Problem lösen, und der Rechner stürzte nicht mehr ab. Dies gelang mir schließlich beim dritten Taschenrechner.
+
+Danach wurde mir langweilig, und ich wollte nicht mehr nur Taschenrechner programmieren, sondern etwas Neues ausprobieren. Also schaute ich auf YouTube nach Projekten und entschied mich, ein Tic-Tac-Toe-Spiel zu programmieren. Ich sah mir ein YouTube-Video dazu an, versuchte es zu verstehen und schrieb den Code ab, um das Projekt umzusetzen.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzulade
